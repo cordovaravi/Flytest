@@ -1,0 +1,36 @@
+{
+  "sample":[
+    {
+      "location":"London",
+      "image":"https://www.track2realty.track2media.com/wp-content/uploads/2011/04/ats-paradiso.jpg",
+      "bedrooms":"2BD/1BD",
+      "cost":"3M"
+    },
+    {
+        "location":"Usa",
+        "image":"https://www.track2realty.track2media.com/wp-content/uploads/2011/04/ats-paradiso.jpg",
+        "bedrooms":"1BD",
+        "cost":"0.5M"
+      },
+      {
+        "location":"NYC",
+        "image":"https://www.track2realty.track2media.com/wp-content/uploads/2011/04/ats-paradiso.jpg",
+        "bedrooms":"2BD",
+        "cost":"5M"
+      },
+      {
+        "location":"Springer",
+        "image":"https://www.track2realty.track2media.com/wp-content/uploads/2011/04/ats-paradiso.jpg",
+        "bedrooms":"5BD",
+        "cost":"6M"
+      },
+      {
+        "location":"Lady D",
+        "image":"https://www.track2realty.track2media.com/wp-content/uploads/2011/04/ats-paradiso.jpg",
+        "bedrooms":"1BD",
+        "cost":"0.5M"
+      }
+    
+  ]
+
+}
